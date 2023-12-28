@@ -18,6 +18,7 @@ print the word count by len(word)
 ### Step 6: 
 close the file f1
 ## PROGRAM:
+```
 ## #python program for word count
 ## #developed by:pavithra p
 ## #reference number:23007232
@@ -28,9 +29,9 @@ close the file f1
 ## word=data.split()
 ## print("The word count is :,len(word))
 ## f1.close()
+```
 ### OUTPUT:
-![IMG_20231225_121543](https://github.com/23007232/command-line-arguments-to-count-word/assets/139115574/3d4cee9d-f04a-4b17-9de7-04ddd06a3ac1)
-
+![Screenshot 2023-12-28 215707](https://github.com/23007232/command-line-arguments-to-count-word/assets/139115574/6706940a-07f9-4cd2-a2e5-c947d04d72c0)
 
 
 ## RESULT:
